@@ -1,5 +1,5 @@
 {
-  "name": "App musculação",
+  "name": "App Performance",
   "description": "Um aplicativo avançado de musculação que permite criar treinos personalizados, importar exercícios via IA, rastrear séries e cronometrar descansos com suporte multilíngue.",
   "requestFramePermissions": [
     "camera"
